@@ -29,9 +29,9 @@ A single-player 2D survival adventure set in a dark industrial facility. Use lig
 3. Let Unity import assets and resolve package dependencies.
 4. Open a scene under `Assets/Scenes/` and press **Play**.
 
-**Current status:** This repository is being prepared for the full Unity project upload. Until `Assets/`, `Packages/`, and `ProjectSettings/` are present, it is **documentation only**. The game has not been independently built or play-tested.
+**Source status:** The Unity project directories `Assets/`, `Packages/`, and `ProjectSettings/` have been uploaded. The game has not been independently built or play-tested.
 
-## Repository layout (after source upload)
+## Repository layout
 
 ```text
 Assets/           Scenes, C# scripts, animations and art
@@ -41,7 +41,7 @@ ProjectSettings/  Unity project settings
 
 ## Documentation
 
-See [the public-safe game design summary](Shadow_Escape_GDD_Public_Summary.md) once uploaded.
+See the [public-safe game design summary](Shadow_Escape_GDD_Public_Summary.md).
 
 ## Credits and responsible sharing
 
