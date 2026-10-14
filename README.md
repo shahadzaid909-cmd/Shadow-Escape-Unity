@@ -4,6 +4,36 @@
 
 A single-player 2D survival adventure set in a dark industrial facility. Use light strategically to create safe zones, avoid a shadow creature, and reach the exit before time runs out.
 
+## Game gallery
+
+*Original screenshots from the Shadow Escape game design document.*
+
+### Main menu
+
+<p align="center"><img src="Shadow_Escape_Add_To_Repo/screenshots/main-menu.jpeg" alt="Original Shadow Escape main menu" width="680"></p>
+
+### Level design — light versus darkness
+
+| Level 1 — Dark | Level 1 — Illuminated |
+| --- | --- |
+| <img src="Shadow_Escape_Add_To_Repo/screenshots/level-1-dark.jpeg" alt="Level 1 in darkness" width="430"> | <img src="Shadow_Escape_Add_To_Repo/screenshots/level-1-light.jpeg" alt="Level 1 illuminated" width="430"> |
+
+| Level 2 — Dark | Level 2 — Illuminated |
+| --- | --- |
+| <img src="Shadow_Escape_Add_To_Repo/screenshots/level-2-dark.jpeg" alt="Level 2 in darkness" width="430"> | <img src="Shadow_Escape_Add_To_Repo/screenshots/level-2-light.jpeg" alt="Level 2 illuminated" width="430"> |
+
+### Game interface
+
+| Health | Timer | Pause |
+| --- | --- | --- |
+| <img src="Shadow_Escape_Add_To_Repo/screenshots/health.jpeg" alt="Health indicator" width="250"> | <img src="Shadow_Escape_Add_To_Repo/screenshots/timer.jpeg" alt="Countdown timer" width="250"> | <img src="Shadow_Escape_Add_To_Repo/screenshots/pause-menu.jpeg" alt="Pause menu" width="250"> |
+
+### Game outcomes
+
+| Victory | Game over |
+| --- | --- |
+| <img src="Shadow_Escape_Add_To_Repo/screenshots/win-screen.jpeg" alt="Victory screen" width="420"> | <img src="Shadow_Escape_Add_To_Repo/screenshots/lose-screen.jpeg" alt="Game over screen" width="420"> |
+
 ## Gameplay
 
 - **Navigate:** Move through industrial corridors with WASD or arrow keys.
